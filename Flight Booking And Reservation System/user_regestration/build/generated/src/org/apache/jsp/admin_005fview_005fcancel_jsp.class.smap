@@ -1,0 +1,20 @@
+SMAP
+admin_005fview_005fcancel_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_view_cancel.jsp
+admin_view_cancel.jsp
++ 1 admin_header.jsp
+admin_header.jsp
+*L
+5,22:53
+5#1,56:75
+26#0,17:130
+43,12:148
+54,3:160
+57,7:163,3
+64,8:184
+74,9:195
+82,6:204
+*E
